@@ -1,0 +1,18 @@
+{
+    "name": "reynold/php-helpers",
+    "description": "A custom helpers include return values format",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Reynold\\PhpHelpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gan",
+            "email": "gan.reynold@gmail.com"
+        }
+    ],
+    "require": {}
+}
